@@ -8,8 +8,6 @@ import (
 	"time"
 )
 
-//just test
-
 func main() {
 	start := time.Now()
 	var results []int
